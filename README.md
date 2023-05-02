@@ -3,6 +3,9 @@ Tentando automotizar um processo no conta azul
 usando a biblioteca do Robson Melo pyContaAzul
 </h1>
 
+
+
+
 "emission": data de emissão da venda. Deve ser no formato "AAAA-MM-DD".
 
 "status": estado atual da venda. Pode ser "COMMITTED" (confirmada) ou "DRAFT" (rascunho).
